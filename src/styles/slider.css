@@ -1,0 +1,22 @@
+:root {
+  --swiper-theme-color: #FFBA08 !important
+}
+
+.swiper-button-next::after  {
+  right: 45px;
+  color:  #FFBA08
+}
+
+.swiper-button-prev::after {
+  right: 45px;
+  color:  #FFBA08
+}
+
+
+
+.swiper-pagination-bullet  {
+  color:  #FFBA08
+}
+
+
+/* swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-css-mode mySwiper" */
